@@ -38,8 +38,9 @@
 ## 📌 Сommercial project
 
 <a href="https://erato-greece.com">
-  <img src="./assets/qr-code.svg" width="250">
+  <img src="./assets/qr-code.svg" width="200">
 </a>
+
 ## 📌 Some of my self projects
 
 <a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-images">
