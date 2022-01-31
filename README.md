@@ -1,6 +1,6 @@
 ## Hi there, nice to see you 👋
 
-### `Front-End Developer`
+`Front-End Developer`
 
 - I'm Kate
 - I'm creative
