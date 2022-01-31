@@ -2,23 +2,17 @@
 
 ### `Front-End Developer`
 
-<br/>
-
 - I'm Kate
 - I'm creative
 - I love to do great things and I'm doing it
 - I'm an avid learner
 - I thrive on clarity, structure, and quiet
 
-<br/>
-
 ## 📫 How to reach me
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/KaterynaB0rysenko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:k.borysenko.kyiv@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kateryna-borysenko-176b0b216/)
-
-<br/>
 
 ## 🛠️ Technologies & Tools
 
@@ -34,7 +28,6 @@
 ![](https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=fff)
 
 <!-- ![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff) -->
-<br/>
 
 ### `GitHub Stats`
 
@@ -42,13 +35,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateryna-borysenko&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Kate's GitHub Stats" />
 </a>
 
-<br/>
-
 ## 📌 Сommercial project
 
 <img src="./assets/qr-code.svg" width="250">
-
-<br/>
 
 ## 📌 Some of my self projects
 
@@ -58,8 +47,6 @@
 <a href="https://github.com/Kateryna-Borysenko/web-studio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=web-studio&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
-
-<br/>
 
 ## 📌 Some of The team projects
 
