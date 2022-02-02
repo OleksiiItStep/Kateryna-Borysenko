@@ -43,8 +43,8 @@
 
 ## 📌 Some of my self projects
 
-<a href="https://github.com/Kateryna-Borysenko/image-searcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=image-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-images">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-04-hooks-images&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Kateryna-Borysenko/web-studio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=web-studio&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
