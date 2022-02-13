@@ -43,11 +43,17 @@
 
 ## 📌 Some of my self projects
 
+<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-08-phonebook">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-08-phonebook&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/Kateryna-Borysenko/goit-react-hw-05-movies">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-05-movies&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-04-hooks-feedback&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/Kateryna-Borysenko/react-hooks-todo-app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=react-hooks-todo-app&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-images">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-04-hooks-images&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
