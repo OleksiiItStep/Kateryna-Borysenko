@@ -43,20 +43,22 @@
 
 ## 📌 Some of my self projects
 
-<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-08-phonebook">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-08-phonebook&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+
+
+<a href="https://github.com/Kateryna-Borysenko/phonebook">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=phonebook&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-05-movies">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-05-movies&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/movie-searcher">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=movie-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-04-hooks-feedback&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/feedback-widget">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=feedback-widget&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Kateryna-Borysenko/react-hooks-todo-app">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=react-hooks-todo-app&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/Kateryna-Borysenko/goit-react-hw-04-hooks-images">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=goit-react-hw-04-hooks-images&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/image-searcher">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=image-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Kateryna-Borysenko/web-studio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=web-studio&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
@@ -64,9 +66,14 @@
 
 ## 📌 Some of The team projects
 
-<a href="https://github.com/mryevhenii07/new-project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mryevhenii07&repo=new-project&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/books-reading">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kateryna-Borysenko&repo=books-reading&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/SlavaLutsenko/goit-moviesProject-g1">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SlavaLutsenko&repo=goit-moviesProject-g1&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+<a href="https://github.com/Kateryna-Borysenko/filmoteka">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kateryna-Borysenko&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/Kateryna-Borysenko/ice-cream">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kateryna-Borysenko&repo=ice-cream&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
+
