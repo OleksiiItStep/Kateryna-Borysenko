@@ -48,18 +48,23 @@
 <a href="https://github.com/Kateryna-Borysenko/phonebook">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=phonebook&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/movie-searcher">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=movie-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/feedback-widget">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=feedback-widget&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/react-hooks-todo-app">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=react-hooks-todo-app&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/image-searcher">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=image-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/web-studio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=web-studio&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
@@ -69,6 +74,7 @@
 <a href="https://github.com/Kateryna-Borysenko/books-reading">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kateryna-Borysenko&repo=books-reading&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/Kateryna-Borysenko/filmoteka">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kateryna-Borysenko&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
