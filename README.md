@@ -1,8 +1,8 @@
 # Hi there, nice to see you 👋
 
-## `Front-End Developer`
+## `Software Engineer`
 
-- I'm Kate
+- I'm Kateryna
 - I'm creative
 - I love to do great things and I'm doing it
 - I'm an avid learner
