@@ -1,7 +1,6 @@
 # Hi there, nice to see you!
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%f2ec3c&lines=Software+Engineer)](https://git.io/typing-svg)  
-
 - I'm Kateryna
 - I'm creative
 - I love to do great things and I'm doing it
