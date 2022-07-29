@@ -1,6 +1,6 @@
-# Hi there, nice to see you 👋
+# Hi there, nice to see you!
 
-## `Software Engineer`
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%f2ec3c&lines=Software+Engineer)](https://git.io/typing-svg)  
 
 - I'm Kateryna
 - I'm creative
