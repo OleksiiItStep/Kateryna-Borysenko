@@ -26,8 +26,7 @@
 ![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=fff)
 ![](https://img.shields.io/badge/Photoshop-2FA4F6?style=for-the-badge&logo=photoshop&logoColor=fff)
 ![](https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=fff)
-
-<!-- ![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff) -->
+![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ### `GitHub Stats`
 
@@ -51,6 +50,10 @@
 
 <a href="https://github.com/Kateryna-Borysenko/movie-searcher">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=movie-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Kateryna-Borysenko/react-intensive">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=Todo List&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Kateryna-Borysenko/andersen-react-hw ">
