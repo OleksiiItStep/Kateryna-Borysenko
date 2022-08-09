@@ -20,19 +20,27 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-EFD53C?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-774ABD?style=for-the-badge&logo=redux&logoColor=fff)
-![](https://img.shields.io/badge/Webpack-89CFF3?style=for-the-badge&logo=webpack&logoColor=000)
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 ![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=fff)
-![](https://img.shields.io/badge/Photoshop-2FA4F6?style=for-the-badge&logo=photoshop&logoColor=fff)
-![](https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=fff)
-![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff)
+<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+![](https://img.shields.io/badge/Webpack-89CFF3?style=for-the-badge&logo=webpack&logoColor=000)
 
-### `GitHub Stats`
+## ⚙️ GitHub Analytics
 
-<a href="https://github.com/kateryna-borysenko/kateryna-borysenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateryna-borysenko&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Kate's GitHub Stats" />
-</a>
+<table>
+  <tr>
+    <td>
+    <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kateryna-Borysenko&theme=algolia&layout=compact" />
+  </tr>
+</table>
 
 ## 📌 Сommercial project
 
